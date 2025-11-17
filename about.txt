@@ -1,2 +1,3 @@
 My name is Swar Rajendra Patil, and this is my first GitHub project.
 In this repository, I will experiment with commits, branches, and pull requests.
+This project is part of my college GitHUb practical experiment.
